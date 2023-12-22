@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ int a,b,sum;
+ clrscr();
+ printf("PROGRAME OF ADDTION");
+ printf("IN ENTER VALUE A:-");
+ scanf("%D",&A:-);
+ printf("IN ENTER VALUE OF B:-");
+ scanf("%D", &B:-);
+ sum=a+b;
